@@ -1,0 +1,11 @@
+Metric,Value
+Accuracy,0.873
+Precision,0.8218
+Recall,0.9823
+F1 Score,0.8949
+ROC-AUC,0.9831
+True Negatives,27343.0
+False Positives,9657.0
+False Negatives,803.0
+True Positives,44529.0
+Decision Threshold,0.5

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Raw and large datasets
+data/raw/
+*.csv
+!models/final_model_report.csv
+
+# Processed NumPy datasets
+data/processed/*.npy
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows/macOS
+Thumbs.db
+.DS_Store
